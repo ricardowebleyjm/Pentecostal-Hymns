@@ -1,0 +1,1 @@
+npx create-expo-app pentecostal_hymns -t tabs
